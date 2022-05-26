@@ -1,0 +1,19 @@
+
+table {
+    width: 100%;
+  }
+
+.stars{
+    position:absolute;
+}
+
+.odd{
+    background-color: red;
+    height:61px;
+    color:red;
+}
+.even{
+    background-color: white;
+    height:61px;
+    color:white;
+}

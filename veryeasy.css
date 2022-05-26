@@ -1,0 +1,21 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+
+div{
+        height:100px;
+        width:100px;
+        border: solid black;
+    }
+.black{
+    background-color: black;
+    color:black;
+}
+.white{
+    background-color: white;
+    color:white;
+}
